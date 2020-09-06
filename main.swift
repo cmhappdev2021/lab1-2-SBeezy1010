@@ -8,11 +8,10 @@ print(friends)
  did work
 // Note: These exercises reinforce Swift concepts in the context of a fitness tracking app.
 // Your fitness tracking app needs to know goal number of steps per day. Create a constant goalSteps and set it to 10000.
-
-
+let goalstep : 10000
 // Use two print functions to print two separate lines to the console. The first line should say "Your step goal for the day is:", and the second line should print the value of goalSteps by referencing your constant.
-
-
+print(My step goal today is 10000)
+what does this mean?
 // Declare a variable schooling and set it to the number of years of school that you have completed. Print schooling to the console.
 
 
