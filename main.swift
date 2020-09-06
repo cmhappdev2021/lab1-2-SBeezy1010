@@ -13,11 +13,9 @@ let goalstep : 10000
 print(My step goal today is 10000)
 what does this mean?
 // Declare a variable schooling and set it to the number of years of school that you have completed. Print schooling to the console.
-
-
+var schooling = (11)
 // Now imagine you just completed an additional year of school, and update the schooling variable accordingly. Print schooling to the console.
-
-
+var schooling = (12)
 // Does the above code compile? Why is this different than trying to update a constant? Print your explanation to the console using the print function.
 
 
